@@ -54,3 +54,9 @@ s 0 0 0 0 0 0 0 u
 i 0 0 0 0 0 0 0 c   
 o 0 0 0 0 0 0 0 e   
 n o i s r u c e r  
+**7 TASK.**  
+Вводится буква, необходимо вывести ее код.  
+Sample Input 1:  
+a  
+Sample Output 1:  
+97  
