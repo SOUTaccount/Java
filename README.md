@@ -60,3 +60,9 @@ Sample Input 1:
 a  
 Sample Output 1:  
 97  
+**7 TASK.**  
+Вводятся две буквы необходимо вывести сумму кодов этих букв  
+Sample Input:  
+a b  
+Sample Output:  
+195  
