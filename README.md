@@ -79,3 +79,9 @@ Sample Input:
 55656567464 674764  
 Sample Output:  
 8452  
+**11 TASK.**  
+Сколько раз из первого числа можно вычесть второе число?  
+Sample Input:  
+5 1  
+Sample Output:  
+5  
