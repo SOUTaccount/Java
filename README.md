@@ -73,3 +73,9 @@ Sample Input:
 1 2  
 Sample Output:  
 0.50  
+**10 TASK.**  
+Необходимо вывести остаток от деления первого числа на второе  
+Sample Input:  
+55656567464 674764  
+Sample Output:  
+8452  
