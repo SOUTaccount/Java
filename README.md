@@ -130,3 +130,13 @@ Sample Input 2:
 5  
 Sample Output 2:  
 1 2 3 4 5  
+**16 TASK.**  
+Дано число, необходимо вывести все кратности данного числа через пробел, включая единицу и само число.  
+Sample Input 1:  
+8  
+Sample Output 1:  
+1 2 4 8  
+Sample Input 2:  
+5  
+Sample Output 2:  
+1 5  
