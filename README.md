@@ -166,3 +166,16 @@ Sample Input 1:
 5  
 Sample Output 1:  
 101  
+**20 TASK.**  
+Программа получает на вход число N, необходимо вывести сумму всех чисел от 1 до N.  
+N не превосходит 10^9  
+Сумма арифметической прогрессии:  
+https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%...
+Sample Input 1:  
+10  
+Sample Output 1:  
+55  
+Sample Input 2:  
+30  
+Sample Output 2:  
+465  
