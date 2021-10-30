@@ -264,3 +264,10 @@ banana:
 -c  
 -d  
 -e  
+**28 TASK.**  
+Вычитанием строк назовем операцию при которой все буквы вычитаемого вычеркиваются из уменьшаемого, а если в уменьшаемом таких букв не было они дописываются в конец уменьшаемого в порядке обхода вычитаемого от 0 индекса к последнему.  
+Например: abcdef - abcfonpq = deonpq или abcdef - fedcloj = abloj или abcdef - fealobjm = cdlojm  
+Sample Input 1:  
+abcdef abcfonpq  
+Sample Output 1:  
+deonpq  
