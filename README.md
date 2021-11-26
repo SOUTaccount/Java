@@ -369,3 +369,9 @@ Sample Output 1:
 Sample Input 1:  
 5  
 5 1 2 4 3  
+**39 TASK.**  
+Реализуйте функцию, возвращающую самое длинное слово из переданного массива. Если таких слов много - необходимо вернуть наименьшее в лексографическом порядке.  
+Sample Input 1:  
+i'm gonna make a change for once in my life it's gonna feel real good gonna make a difference  
+Sample Output 1:  
+difference  
