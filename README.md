@@ -375,3 +375,9 @@ Sample Input 1:
 i'm gonna make a change for once in my life it's gonna feel real good gonna make a difference  
 Sample Output 1:  
 difference  
+**40 TASK.**  
+Реализуйте функцию проверки числа на простоту. Постарайтесь найти оптимальное решение с асимптотикой O((n)^{1/2})O((n)^1/2  
+Sample Input 1:  
+5  
+Sample Output 1:  
+true  
